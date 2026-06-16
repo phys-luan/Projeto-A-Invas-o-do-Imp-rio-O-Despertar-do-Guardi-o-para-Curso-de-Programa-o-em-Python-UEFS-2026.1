@@ -41,7 +41,6 @@ Projeto desenvolvido por **Luan Almeida Meira**.
 ```text
 Projeto/
 │
-├── main.py
 ├── pngwing.com.png
 ├── black-red-darth-vader-head-sticker.png
 ├── stormtrooper.png
